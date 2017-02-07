@@ -8,3 +8,8 @@ Useful links repository
 
 
 * [Understanding Sessions & Cookies](https://auth0.com/docs/videos/session-and-cookies) - Explains [How to save and retrieve session from Redis](http://stackoverflow.com/questions/14014446/how-to-save-and-retrieve-session-from-redis) using [connect-redis](https://www.npmjs.com/package/connect-redis)
+
+##  Utils Online
+
+* [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
+* [AVRO Scala Generator](http://avro4s-ui.landoop.com/) - Generate Scala from Avro and Avro from JSon
