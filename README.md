@@ -19,6 +19,10 @@ Useful links repository
 
 * [Understanding Sessions & Cookies](https://auth0.com/docs/videos/session-and-cookies) - Explains [How to save and retrieve session from Redis](http://stackoverflow.com/questions/14014446/how-to-save-and-retrieve-session-from-redis) using [connect-redis](https://www.npmjs.com/package/connect-redis)
 
+* How to Integrate REST APIs with Single-Page Apps and Secure Them Using Auth0: [Part 1](https://aws.amazon.com/es/blogs/apn/how-to-integrate-rest-apis-with-single-page-apps-and-secure-them-using-auth0-part-1/), [Part 2](https://aws.amazon.com/es/blogs/apn/how-to-integrate-rest-apis-with-single-page-apps-and-secure-them-using-auth0-part-2/)
+
+* [node-auth0](https://github.com/auth0/node-auth0) - [Recommended way to re-inject renewed token for Management API in a long-running script?](https://github.com/auth0/node-auth0/issues/164)
+
 ## Cryptography
 
 * [How to generate random SHA1 hash to use as ID in node.js?](http://stackoverflow.com/questions/9407892/how-to-generate-random-sha1-hash-to-use-as-id-in-node-js/14869745#14869745) - I'd recommend using crypto.randomBytes. It's not sha1, but for id purposes, it's quicker, and just as "random".
