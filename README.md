@@ -32,6 +32,24 @@ var id = crypto.randomBytes(20).toString('hex');
 //=> bb5dc8842ca31d4603d6aa11448d1654
 ```
 
+## Static Site Generators (see https://www.staticgen.com/ Top Open-Source Static Site Generators)
+
+* [Phenomic](https://github.com/MoOx/phenomic) - Phenomic is a modern static website generator based on the React and Webpack ecosystem. https://phenomic.io
+* [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a blog-aware, static site generator in Ruby. http://jekyllrb.com
+* [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js. https://hexo.io 
+* [Hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang http://gohugo.io
+* [Gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
+* [MkDocs](https://github.com/mkdocs/mkdocs/) - Project documentation with Markdown. http://www.mkdocs.org
+* [Bi Sheng](https://github.com/benjycui/bisheng) - Transform Markdown (and other static files with transformers) into a SPA website using React.
+
+### Utils
+
+* [serverless/post-scheduler](https://github.com/serverless/post-scheduler) - Schedule posts & content updates for static websites (Jekyll, Hugo, Gatsby, Phenomic etc) https://serverless.com/blog/static-site-post-scheduler/
+
+## Material Design
+
+* [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - A Material Design theme for MkDocs
+
 ##  Utils Online
 
 * [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
