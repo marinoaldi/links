@@ -55,6 +55,7 @@ see https://www.staticgen.com/ Top Open-Source Static Site Generators
 
 * [Phenomic](https://github.com/MoOx/phenomic) - Phenomic is a modern static website generator based on the React and Webpack ecosystem. https://phenomic.io
 * [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a blog-aware, static site generator in Ruby. http://jekyllrb.com
+* [Jekyll Now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line. Jekyll Now makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 * [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js. https://hexo.io 
 * [Hugo](https://github.com/spf13/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang http://gohugo.io
 * [Gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js.
