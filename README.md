@@ -4,21 +4,20 @@ Useful links repository
 
 ## Table of contents
   * [Node.js](#nodejs)
-    + [Versions / Releases](#versions---releases)
+    + [Versions - Releases](#versions---releases)
     + [Utils](#utils)
   * [Auth0](#auth0)
   * [Cryptography](#cryptography)
-  * [Static Site Generators (see https://www.staticgen.com/ Top Open-Source Static Site Generators)](#static-site-generators--see-https---wwwstaticgencom--top-open-source-static-site-generators-)
+  * [Static Site Generators](#static-site-generators)
     + [Utils](#utils-1)
   * [Material Design](#material-design)
   * [Utils Online](#utils-online)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+*Table of contents generated with [markdown-toc](http://ecotrust-canada.github.io/markdown-toc/)*
 
 ##  Node.js
 
-### Versions / Releases
+### Versions - Releases
 * [Node.js Releases](https://nodejs.org/es/download/releases/)
 * [node.green](http://node.green/) - Node.js ECMAScript compatibility tables
 
@@ -46,7 +45,8 @@ var id = crypto.randomBytes(20).toString('hex');
 //=> bb5dc8842ca31d4603d6aa11448d1654
 ```
 
-## Static Site Generators (see https://www.staticgen.com/ Top Open-Source Static Site Generators)
+## Static Site Generators
+see https://www.staticgen.com/ Top Open-Source Static Site Generators
 
 * [Phenomic](https://github.com/MoOx/phenomic) - Phenomic is a modern static website generator based on the React and Webpack ecosystem. https://phenomic.io
 * [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a blog-aware, static site generator in Ruby. http://jekyllrb.com
