@@ -13,6 +13,7 @@ Useful links repository
     + [Utils](#utils-1)
   * [Material Design](#material-design)
   * [Utils Online](#utils-online)
+  * [Collaborative Lists](collaborative-lists)
 
 *Table of contents generated with [markdown-toc](http://ecotrust-canada.github.io/markdown-toc/)*
 
@@ -74,3 +75,8 @@ see https://www.staticgen.com/ Top Open-Source Static Site Generators
 
 * [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 * [AVRO Scala Generator](http://avro4s-ui.landoop.com/) - Generate Scala from Avro and Avro from JSon
+
+## Collaborative Lists
+
+* [Realtime Web Technology Guide](https://github.com/leggetter/realtime-web-technologies-guide) - An open and maintained a list of realtime web technologies.
+* [Awesome REST](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance.
