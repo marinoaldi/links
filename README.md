@@ -13,7 +13,7 @@ Useful links repository
     + [Utils](#utils-1)
   * [Material Design](#material-design)
   * [Utils Online](#utils-online)
-  * [Collaborative Lists](collaborative-lists)
+  * [Collaborative Lists](#collaborative-lists)
 
 *Table of contents generated with [markdown-toc](http://ecotrust-canada.github.io/markdown-toc/)*
 
