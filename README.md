@@ -27,10 +27,17 @@ Useful links repository
 * [Node.js Releases](https://nodejs.org/es/download/releases/)
 * [node.green](http://node.green/) - Node.js ECMAScript compatibility tables
 
+### Structure & Architecture
+* [Better Express Routing & Architecture for NodeJS](https://www.caffeinecoding.com/better-express-routing-for-nodejs/): [Github](https://github.com/kelyvin/express-env-example)
+* [Model-Routes-Controllers-Services Code Structure](https://riptutorial.com/node-js/example/32332/model-routes-controllers-services-code-structure)
+* [Express Tutorial Part 4: Routes and controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+* [How to write a production-ready Node and Express app](https://medium.freecodecamp.org/how-to-write-a-production-ready-node-and-express-app-f214f0b17d8c)
+* [Express.js’s best controller pattern](https://medium.com/@juampi92/express-js-best-controller-pattern-ee5bc92cc40)
+* [Structure of a NodeJS API Project](https://medium.com/codebase/structure-of-a-nodejs-api-project-cdecb46ef3f8)
+
 ### Utils
 * [NPM Vet](https://www.npmjs.com/package/npmvet) - A simple CLI tool to help vet your npm package versions.
 * [NCU](https://www.npmjs.com/package/ncu) - A simple CLI for NCU's Information.
-
 
 ## Auth0
 
