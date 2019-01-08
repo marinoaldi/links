@@ -6,6 +6,7 @@ Useful links repository
   * [Github](#github)
   * [Node.js](#nodejs)
     + [Versions - Releases](#versions---releases)
+    + [Structure & Architecture](#structure--architecture)
     + [Utils](#utils)
   * [Auth0](#auth0)
   * [Cryptography](#cryptography)
